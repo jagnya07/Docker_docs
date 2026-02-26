@@ -305,27 +305,6 @@ Docker Swarm (Orchestration)
   docker pull name:tag         Pull image from registry
   docker tag src:tag dest:tag  Tag an image with new name
 
-
-================================================================
-  LEARNING PATH
-================================================================
-
-  Week 1  -> Pull/run images, basic commands,
-             understand containers vs images
-
-  Week 2  -> Write Dockerfiles, build custom images,
-             understand image layers
-
-  Week 3  -> Networking, volumes, Docker Compose
-             for multi-container apps
-
-  Week 4  -> Multi-stage builds, optimization,
-             resource limits, CI/CD integration
-
-  Week 5+ -> Docker Swarm or Kubernetes
-             for production orchestration
-
-
 ================================================================
               Happy Dockerizing!
 ================================================================
